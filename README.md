@@ -8,7 +8,7 @@
 
 ---
 
-## 👋 Hey there! I'm Zainab Naeem
+## 👋 Hey there! I'm Zainab Naeem AKA Zaeb
 
 > *Software Engineering student from Faisalabad 🇵🇰 — diving deep into Web Dev, Game Dev & AI Integration.*
 
@@ -22,7 +22,7 @@ I believe in **building in public** — sharing every step of the journey: the p
 |------|---------|
 | 🏗️ **Currently Building** | Small JavaScript projects to solidify my fundamentals |
 | 🌱 **Currently Learning** | JavaScript (ES6+, DOM, Fetch API) & modern front-end practices |
-| 🎯 **2025 Goal** | Ship at least 10 public projects |
+| 🎯 **2026 Goal** | Ship at least 10 public projects |
 | 💬 **Ask Me About** | Web Dev, Game Dev with C++/C#, or starting your coding journey |
 | ⚡ **Fun Fact** | I love solving logic puzzles and turning wild ideas into actual code |
 
@@ -70,9 +70,9 @@ I believe in **building in public** — sharing every step of the journey: the p
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
+## 📊 GitHub Stats 
+Null
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Zainabhina05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zainabhina05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
@@ -89,27 +89,28 @@ I believe in **building in public** — sharing every step of the journey: the p
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zainabhina05&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
-</div>
+</div> -->
 
 ---
 
 ## 🏆 GitHub Trophies
+        Null
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Zainabhina05&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1"/>
 
 </div>
 
----
+--- -->
 
 ## 📫 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link-here)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your-handle)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-naeem512/))
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ZainabHina05))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](zainab.hina05@gmail.com)
 
 </div>
 
