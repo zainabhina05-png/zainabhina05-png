@@ -83,20 +83,34 @@ I believe in **building in public** — sharing every step of the journey: the p
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zainabhina05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zainabhina05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zainabhina05-png&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabhina05-png&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Zainabhina05&theme=tokyonight&hide_border=true" width="500"/>
+<img src="https://streak-stats.demolab.com?user=zainabhina05-png&theme=tokyonight&hide_border=true" width="500"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zainabhina05&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zainabhina05-png&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zainabhina05-png/zainabhina05-png/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zainabhina05-png/zainabhina05-png/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/zainabhina05-png/zainabhina05-png/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+</picture>
 
 </div>
 
@@ -106,7 +120,7 @@ I believe in **building in public** — sharing every step of the journey: the p
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Zainabhina05&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=zainabhina05-png&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1"/>
 
 </div>
 
@@ -127,7 +141,7 @@ I believe in **building in public** — sharing every step of the journey: the p
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Zainabhina05&label=Profile+Views&color=a855f7&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=zainabhina05-png&label=Profile+Views&color=a855f7&style=flat" alt="profile views"/>
 
 *⭐️ Check back often — I'm always learning and shipping something new!*
 
