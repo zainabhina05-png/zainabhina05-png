@@ -120,7 +120,7 @@ I believe in **building in public** — sharing every step of the journey: the p
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=zainabhina05-png&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1"/>
+![trophy](https://github-profile-trophy.vercel.app/?username=zainabhina05-png&theme=radical)
 
 </div>
 
