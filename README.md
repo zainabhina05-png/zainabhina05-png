@@ -81,12 +81,7 @@ I believe in **building in public** — sharing every step of the journey: the p
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zainabhina05-png&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabhina05-png&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-
-</div>
 
 <div align="center">
 
@@ -119,7 +114,7 @@ I believe in **building in public** — sharing every step of the journey: the p
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
+![trophy](https://github-profile-trophy.vercel.app/?username=zainabhina05-png&theme=radical&no-frame=true&row=1&column=6)
 ![YOLO](https://img.shields.io/badge/Achievement-YOLO-blueviolet?style=for-the-badge)
 ![Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-blue?style=for-the-badge)
 
