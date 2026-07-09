@@ -120,7 +120,8 @@ I believe in **building in public** — sharing every step of the journey: the p
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=zainabhina05-png&theme=radical)
+![YOLO](https://img.shields.io/badge/Achievement-YOLO-blueviolet?style=for-the-badge)
+![Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-blue?style=for-the-badge)
 
 </div>
 
