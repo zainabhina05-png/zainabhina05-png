@@ -84,21 +84,21 @@ I believe in **building in public** — sharing every step of the journey: the p
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Diwakar-odds&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Diwakar's GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zainabhina05-png&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Diwakar's GitHub Stats" />
   </a>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Diwakar-odds&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zainabhina05-png&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </a>
   <br/>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diwakar-odds&theme=radical&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zainabhina05-png&theme=radical&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=Diwakar-odds&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=zainabhina05-png&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -107,7 +107,7 @@ I believe in **building in public** — sharing every step of the journey: the p
 ## 🌟 3D Contribution Graph
 
 <p align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/Diwakar-odds?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large" alt="3D Contribution Graph" />
+  <img src="https://ssr-contributions-svg.vercel.app/_/zainabhina05-png?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large" alt="3D Contribution Graph" />
 </p>
 
 ---
