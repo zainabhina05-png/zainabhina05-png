@@ -112,23 +112,12 @@ I believe in **building in public** — sharing every step of the journey: the p
 
 ---
 
-## 📊 GitHub Stats
+
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zainabhina05-png&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=zainabhina05-png&theme=tokyonight&hide_border=true" width="500"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zainabhina05-png&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+![trophy](https://github-profile-trophy.vercel.app/?username=zainabhina05-png&theme=radical&no-frame=true&row=1&column=6)
 
 </div>
 
@@ -143,16 +132,6 @@ I believe in **building in public** — sharing every step of the journey: the p
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zainabhina05-png/zainabhina05-png/output/github-contribution-grid-snake.svg">
   <img src="https://raw.githubusercontent.com/zainabhina05-png/zainabhina05-png/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 </picture>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=zainabhina05-png&theme=radical&no-frame=true&row=1&column=6)
 
 </div>
 
