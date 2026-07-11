@@ -79,15 +79,6 @@ I believe in **building in public** — sharing every step of the journey: the p
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=zainabhina05-png&theme=gruvbox&no-frame=true&row=1&column=6)
-
-</div>
-
----
 
 ## 🔥 Streak
 
@@ -127,19 +118,6 @@ I believe in **building in public** — sharing every step of the journey: the p
 
 ---
 
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-naeem512/)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ZainabHina05)
-[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Zaebhana/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainab.hina05@gmail.com)
-
-</div>
-
----
-
 ## 🌳 GitHub Stats & Contribution Graph
 
 <div align="center">
@@ -157,6 +135,19 @@ I believe in **building in public** — sharing every step of the journey: the p
 <br/>
 
 <img src="https://ssr-contributions-svg.vercel.app/_/zainabhina05-png?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=green&widget_size=large" alt="3D Contribution Graph" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-naeem512/)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ZainabHina05)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Zaebhana/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainab.hina05@gmail.com)
 
 </div>
 
