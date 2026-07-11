@@ -1,32 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zainab%20Naeem&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=aka%20Zaeb%20%7C%20Software%20Engineer%20in%20the%20Making&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8DAB5,50:9CAF88,100:6B8E5A&height=180&section=header&text=Zainab%20Naeem&fontSize=42&fontColor=2F3B26&animation=twinkling&fontAlignY=32&desc=aka%20Zaeb%20%7C%20Software%20Engineer%20in%20the%20Making&descAlignY=55&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%F0%9F%92%BB;Frontend+%2B+Backend+%F0%9F%94%84;Game+Dev+%F0%9F%8E%AE+%7C+AI+Curious+%F0%9F%A4%96;Currently+Deep-Diving+Backend+%26+Game+Dev+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6B8E5A&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%F0%9F%8C%B1;Frontend+%2B+Backend+%F0%9F%8D%83;Game+Dev+%F0%9F%8E%AE+%7C+AI+Curious+%F0%9F%A6%8B;Currently+Deep-Diving+Backend+%26+Game+Dev+%F0%9F%8C%BF)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/badge/Open%20Source%20Contributor-A855F7?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20Source%20Contributor-8FAE7E?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
 ---
 
-## 👋 Hey there! I'm Zainab Naeem AKA Zaeb
+## 🌿 Hey there! I'm Zainab Naeem AKA Zaeb
 
 > *Software Engineering student from Faisalabad 🇵🇰 — MERN Stack Developer working across frontend & backend, with a growing interest in AI and a real fondness for game development.*
 
-I believe in **building in public** — sharing every step of the journey: the progress, the bugs, and the wins. Follow along! 🎯
+I believe in **building in public** — sharing every step of the journey: the progress, the bugs, and the little wins. Wander through and stay a while! 🍃
 
 ---
 
-## 🔭 What I'm Up To
+## 🌱 What I'm Up To
 
 | Area | Details |
 |------|---------|
-| 🏗️ **What I Do** | Full stack (MERN) development — frontend & backend |
-| 🌱 **Currently Learning** | Going deeper into **Game Development** and **AI**, with a major focus on **backend** engineering |
+| 🏡 **What I Do** | Full stack (MERN) development — frontend & backend |
+| 🌾 **Currently Learning** | Going deeper into **Game Development** and **AI**, with a major focus on **backend** engineering |
 | 🎯 **2026 Goal** | Ship at least 10 public projects |
 | 💬 **Ask Me About** | Web Dev, DSA/OOP in C++, or starting your coding journey |
-| ⚡ **Fun Fact** | I love solving logic puzzles and turning wild ideas into actual code |
+| 🦋 **Fun Fact** | I love solving logic puzzles and turning wild ideas into actual code |
 
 ---
 
@@ -38,8 +38,8 @@ I believe in **building in public** — sharing every step of the journey: the p
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![DSA](https://img.shields.io/badge/DSA-6A1B9A?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-6A1B9A?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-6B8E5A?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-6B8E5A?style=for-the-badge)
 
 **Frontend**
 
@@ -79,45 +79,23 @@ I believe in **building in public** — sharing every step of the journey: the p
 
 ---
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zainabhina05-png&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Diwakar's GitHub Stats" />
-  </a>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zainabhina05-png&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  </a>
-  <br/>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zainabhina05-png&theme=radical&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=zainabhina05-png&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </a>
-</div>
-
----
-
-## 🌟 3D Contribution Graph
-
-<p align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/zainabhina05-png?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large" alt="3D Contribution Graph" />
-</p>
-
----
-
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=zainabhina05-png&theme=radical&no-frame=true&row=1&column=6)
+![trophy](https://github-profile-trophy.vercel.app/?username=zainabhina05-png&theme=gruvbox&no-frame=true&row=1&column=6)
+
+</div>
+
+---
+
+## 🔥 Streak
+
+<div align="center">
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=zainabhina05-png&hide_border=true&background=1B1F1A&border=6B8E5A&ring=9CAF88&fire=B5C99A&currStreakLabel=9CAF88&sideLabels=E8EDE3&dates=8FAE7E&currStreakNum=E8EDE3&sideNums=E8EDE3" alt="GitHub Streak" />
+</a>
 
 </div>
 
@@ -137,6 +115,18 @@ I believe in **building in public** — sharing every step of the journey: the p
 
 ---
 
+## 🍀 Top Languages
+
+<div align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zainabhina05-png&layout=compact&hide_border=true&bg_color=1B1F1A&title_color=9CAF88&text_color=E8EDE3" alt="Top Languages" />
+</a>
+
+</div>
+
+---
+
 ## 📫 Let's Connect
 
 <div align="center">
@@ -150,12 +140,34 @@ I believe in **building in public** — sharing every step of the journey: the p
 
 ---
 
+## 🌳 GitHub Stats & Contribution Graph
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=zainabhina05-png&label=Profile+Views&color=a855f7&style=flat" alt="profile views"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zainabhina05-png&show_icons=true&hide_border=true&bg_color=1B1F1A&title_color=9CAF88&icon_color=B5C99A&text_color=E8EDE3&count_private=true" alt="Zaeb's GitHub Stats" />
+</a>
 
-*⭐️ Check back often — I'm always learning and shipping something new!*
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zainabhina05-png&bg_color=1B1F1A&color=9CAF88&line=6B8E5A&point=E8EDE3&area=true&hide_border=true" alt="Activity Graph" />
+</a>
+
+<br/>
+
+<img src="https://ssr-contributions-svg.vercel.app/_/zainabhina05-png?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=green&widget_size=large" alt="3D Contribution Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=zainabhina05-png&label=Profile+Views&color=9caf88&style=flat" alt="profile views"/>
+
+*🌾 Check back often — I'm always learning and shipping something new!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B8E5A,50:9CAF88,100:C8DAB5&height=100&section=footer" width="100%"/>
 
 </div>
