@@ -91,13 +91,7 @@ I believe in **building in public** — sharing every step of the journey: the p
 
 ## 🔥 Streak
 
-<div align="center">
-
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=zainabhina05-png&hide_border=true&background=1B1F1A&border=6B8E5A&ring=9CAF88&fire=B5C99A&currStreakLabel=9CAF88&sideLabels=E8EDE3&dates=8FAE7E&currStreakNum=E8EDE3&sideNums=E8EDE3" alt="GitHub Streak" />
-</a>
-
-</div>
+<div align="center"> <a href="https://github.com/DenverCoder1/github-readme-streak-stats">  <img src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=zainabhina05-png&hide_border=true&background=1B1F1A&border=6B8E5A&ring=9CAF88&fire=B5C99A&currStreakLabel=9CAF88&sideLabels=E8EDE3&dates=8FAE7E&currStreakNum=E8EDE3&sideNums=E8EDE3" alt="GitHub Streak" /></a> </div>
 
 ---
 
