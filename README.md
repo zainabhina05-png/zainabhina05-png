@@ -23,10 +23,19 @@ I believe in **building in public** — sharing every step of the journey: the p
 | Area | Details |
 |------|---------|
 | 🏡 **What I Do** | Full stack (MERN) development — frontend & backend |
-| 🌾 **Currently Learning** | Going deeper into **Game Development** and **AI**, with a major focus on **backend** engineering |
+| 🌾 **Currently Building** | Browser-native multiplayer game systems (Three.js, Colyseus, Rust/WASM) with AI-driven NPCs — deep dive through Dec 2026 |
 | 🎯 **2026 Goal** | Ship at least 10 public projects |
 | 💬 **Ask Me About** | Web Dev, DSA/OOP in C++, or starting your coding journey |
 | 🦋 **Fun Fact** | I love solving logic puzzles and turning wild ideas into actual code |
+
+---
+
+## 🚧 Currently Shipping
+
+- 🔧 **CRM Dashboard** — optimization pass, Aug 2026
+- 🎮 **How_Ball** — 3D endless runner, fixing responsiveness
+- 🧭 **Logpose** — migrating off Snowflake to a new backend
+- 🌐 Open-source: 67+ merged PRs as an active contributor @ Elite Coders (2026 track, through Aug 31)
 
 ---
 
