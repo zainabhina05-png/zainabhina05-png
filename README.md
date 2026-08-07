@@ -85,6 +85,8 @@ I believe in **building in public** — sharing every step of the journey: the p
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-000000?style=for-the-badge&logo=Neon&logoColor=green)
+![Supabase](https://img.shields.io/badge/Supabase-4479A1?style=for-the-badge&logo=supabase&logoColor=black)
 
 **Testing & Tooling**
 
