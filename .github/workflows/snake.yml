@@ -17,8 +17,8 @@ jobs:
         with:
           github_user_name: zainabhina05-png
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#216e39&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#2ea043&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+            dist/github-contribution-grid-snake.svg?color_snake=#5f7052&color_dots=#ebedf0,#d7e3c4,#b3c896,#8ba46f,#5f7052
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#9fbf7c&color_dots=#161b22,#1d2b18,#2f4a25,#4a6f38,#79ab5c
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4
