@@ -1,128 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8DAB5,50:9CAF88,100:6B8E5A&height=180&section=header&text=Zainab%20Naeem&fontSize=42&fontColor=2F3B26&animation=twinkling&fontAlignY=32&desc=aka%20Zaeb%20%7C%20Software%20Engineer%20in%20the%20Making&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1b2f22,100:1b2f22&height=160&section=header&text=Zainab%20Naeem&fontSize=38&fontColor=7ee2a8&animation=fadeIn&fontAlignY=35&desc=aka%20Zaeb%20%7C%20Software%20Engineer%20in%20the%20Making&descAlignY=58&descSize=15&descColor=5f9c74" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6B8E5A&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%F0%9F%8C%B1;Frontend+%2B+Backend+%F0%9F%8D%83;Game+Dev+%F0%9F%8E%AE+%7C+AI+Curious+%F0%9F%A6%8B;Currently+Deep-Diving+Backend+%26+Game+Dev+%F0%9F%8C%BF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=3FB950&center=true&vCenter=true&width=560&lines=MERN+Stack+Developer;Frontend+%2B+Backend+Engineering;Game+Dev+%7C+AI+Curious;Currently+Deep-Diving+Backend+%26+Game+Dev)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/badge/Open%20Source%20Contributor-8FAE7E?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20Source%20Contributor-0d1117?style=for-the-badge&logo=github&logoColor=7ee2a8&labelColor=0d1117" />
 
 </div>
 
 ---
 
-## 🌿 Hey there! I'm Zainab Naeem AKA Zaeb
+## About
 
-> *Software Engineering student from Faisalabad 🇵🇰 — MERN Stack Developer working across frontend & backend, with a growing interest in AI and a real fondness for game development.*
+> Software Engineering student from Faisalabad 🇵🇰 — MERN Stack Developer working across frontend & backend, with a growing interest in AI and a real fondness for game development.
 
-I believe in **building in public** — sharing every step of the journey: the progress, the bugs, and the little wins. Wander through and stay a while! 🍃
+I believe in **building in public** — sharing every step of the journey: the progress, the bugs, and the little wins.
 
 ---
 
-## 🌱 What I'm Up To
+## 🟢 What I'm Up To
 
 | Area | Details |
 |------|---------|
-| 🏡 **What I Do** | Full stack (MERN) development — frontend & backend |
-| 🌾 **Currently Building** | Browser-native multiplayer game systems (Three.js, Colyseus, Rust/WASM) with AI-driven NPCs — deep dive through Dec 2026 |
+| 🖥️ **What I Do** | Full stack (MERN) development — frontend & backend |
+| 🕹️ **Currently Building** | Browser-native multiplayer game systems (Three.js, Colyseus, Rust/WASM) with AI-driven NPCs — deep dive through Dec 2026 |
 | 🎯 **2026 Goal** | Ship at least 10 public projects |
 | 💬 **Ask Me About** | Web Dev, DSA/OOP in C++, or starting your coding journey |
-| 🦋 **Fun Fact** | I love solving logic puzzles and turning wild ideas into actual code |
 
 ---
 
 ## 🚧 Currently Shipping
 
-- 🔧 **CRM Dashboard** — optimization pass, Aug 2026
-- 🎮 **How_Ball** — 3D endless runner, fixing responsiveness
-- 🧭 **Logpose** — migrating off Snowflake to a new backend
-- 🌐 Open-source: 67+ merged PRs as an active contributor @ Elite Coders (2026 track, through Aug 31)
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Fundamentals**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-6B8E5A?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-6B8E5A?style=for-the-badge)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-**3D & Animation**
-
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-6B8E5A?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-6B8E5A?style=for-the-badge)
-
-**Database**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-000000?style=for-the-badge&logo=Neon&logoColor=green)
-![Supabase](https://img.shields.io/badge/Supabase-4479A1?style=for-the-badge&logo=supabase&logoColor=black)
-
-**Testing & Tooling**
-
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Supertest](https://img.shields.io/badge/Supertest-6B8E5A?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Winston](https://img.shields.io/badge/Winston-6B8E5A?style=for-the-badge)
-![Morgan](https://img.shields.io/badge/Morgan-6B8E5A?style=for-the-badge)
-
-**Game Dev**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
-
-**Tools & Practices**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-6B8E5A?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-6B8E5A?style=for-the-badge)
-
----
-
-
-## 🔥 Streak
-
-<div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"> 
-    <img src="https://streak-stats.demolab.com/?user=zainabhina05-png&hide_border=true&background=1B1F1A&border=6B8E5A&ring=9CAF88&fire=B5C99A&currStreakLabel=9CAF88&sideLabels=E8EDE3&dates=8FAE7E&currStreakNum=E8EDE3&sideNums=E8EDE3" alt="GitHub Streak" />
-  </a>
-
-</div>
+- **CRM Dashboard** — optimization pass, Aug 2026
+- **How_Ball** — 3D endless runner, fixing responsiveness
+- **Logpose** — migrating off Snowflake to a new backend
+- **Open source** — 67+ merged PRs as an active contributor @ Elite Coders (2026 track, through Aug 31)
 
 ---
 
@@ -138,33 +50,39 @@ I believe in **building in public** — sharing every step of the journey: the p
 
 </div>
 
+This is your real contribution graph — the snake eats real commit data, recolored to GitHub's own dark-mode green scale (`#0e4429 → #39d353`) instead of the default palette, so it's consistent with the rest of the profile. Workflow below.
+
+---
+
+## 🔥 Streak
+
+<div align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"> 
+    <img src="https://streak-stats.demolab.com/?user=zainabhina05-png&hide_border=true&background=0d1117&border=30363d&ring=3FB950&fire=39d353&currStreakLabel=7ee2a8&sideLabels=7ee2a8&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
+  </a>
+</div>
+
 ---
 
 ## 🍀 Top Languages
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zainabhina05-png&layout=compact&hide_border=true&bg_color=1B1F1A&title_color=9CAF88&text_color=E8EDE3" alt="Top Languages" />
-</a>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zainabhina05-png&layout=compact&hide_border=true&bg_color=0d1117&title_color=7ee2a8&text_color=c9d1d9&border_color=30363d" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 🌳 GitHub Stats & Contribution Graph
+## 🌐 GitHub Stats & Activity
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zainabhina05-png&show_icons=true&hide_border=true&bg_color=1B1F1A&title_color=9CAF88&icon_color=B5C99A&text_color=E8EDE3&count_private=true" alt="Zaeb's GitHub Stats" />
-</a>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zainabhina05-png&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7ee2a8&icon_color=3FB950&text_color=c9d1d9&border_color=30363d&count_private=true" alt="Zaeb's GitHub Stats" />
 
 <br/>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zainabhina05-png&bg_color=1B1F1A&color=9CAF88&line=6B8E5A&point=E8EDE3&area=true&hide_border=true" alt="Activity Graph" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zainabhina05-png&bg_color=0d1117&color=3FB950&line=39d353&point=c9d1d9&area=true&hide_border=true" alt="Activity Graph" />
 
 <br/>
 
@@ -174,14 +92,89 @@ I believe in **building in public** — sharing every step of the journey: the p
 
 ---
 
+## 🛠️ Tech Stack
+
+**Languages & Fundamentals**
+
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=7ee2a8&labelColor=0d1117)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=7ee2a8&labelColor=0d1117)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=7ee2a8&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=7ee2a8&labelColor=0d1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=7ee2a8&labelColor=0d1117)
+![DSA](https://img.shields.io/badge/DSA-0d1117?style=for-the-badge&labelColor=0d1117&color=1b2f22)
+![OOP](https://img.shields.io/badge/OOP-0d1117?style=for-the-badge&labelColor=0d1117&color=1b2f22)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=7ee2a8&labelColor=0d1117)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=7ee2a8&labelColor=0d1117)
+![SCSS](https://img.shields.io/badge/SCSS-0d1117?style=for-the-badge&logo=sass&logoColor=7ee2a8&labelColor=0d1117)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=7ee2a8&labelColor=0d1117)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=7ee2a8&labelColor=0d1117)
+![React Router](https://img.shields.io/badge/React_Router-0d1117?style=for-the-badge&logo=reactrouter&logoColor=7ee2a8&labelColor=0d1117)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=7ee2a8&labelColor=0d1117)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=7ee2a8&labelColor=0d1117)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=7ee2a8&labelColor=0d1117)
+![jQuery](https://img.shields.io/badge/jQuery-0d1117?style=for-the-badge&logo=jquery&logoColor=7ee2a8&labelColor=0d1117)
+
+**3D & Animation**
+
+![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=for-the-badge&logo=three.js&logoColor=7ee2a8&labelColor=0d1117)
+![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-0d1117?style=for-the-badge&logo=three.js&logoColor=7ee2a8&labelColor=0d1117)
+![GSAP](https://img.shields.io/badge/GSAP-0d1117?style=for-the-badge&logo=greensock&logoColor=7ee2a8&labelColor=0d1117)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=7ee2a8&labelColor=0d1117)
+![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=7ee2a8&labelColor=0d1117)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=7ee2a8&labelColor=0d1117)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&labelColor=0d1117&color=1b2f22)
+![JWT](https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=7ee2a8&labelColor=0d1117)
+![Webhooks](https://img.shields.io/badge/Webhooks-0d1117?style=for-the-badge&labelColor=0d1117&color=1b2f22)
+
+**Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=7ee2a8&labelColor=0d1117)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-0d1117?style=for-the-badge&logo=mongodb&logoColor=7ee2a8&labelColor=0d1117)
+![Snowflake](https://img.shields.io/badge/Snowflake-0d1117?style=for-the-badge&logo=snowflake&logoColor=7ee2a8&labelColor=0d1117)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=7ee2a8&labelColor=0d1117)
+![Neon](https://img.shields.io/badge/Neon-0d1117?style=for-the-badge&logo=Neon&logoColor=7ee2a8&labelColor=0d1117)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=7ee2a8&labelColor=0d1117)
+
+**Testing & Tooling**
+
+![Jest](https://img.shields.io/badge/Jest-0d1117?style=for-the-badge&logo=jest&logoColor=7ee2a8&labelColor=0d1117)
+![Supertest](https://img.shields.io/badge/Supertest-0d1117?style=for-the-badge&labelColor=0d1117&color=1b2f22)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=7ee2a8&labelColor=0d1117)
+![Winston](https://img.shields.io/badge/Winston-0d1117?style=for-the-badge&labelColor=0d1117&color=1b2f22)
+![Morgan](https://img.shields.io/badge/Morgan-0d1117?style=for-the-badge&labelColor=0d1117&color=1b2f22)
+
+**Game Dev**
+
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=7ee2a8&labelColor=0d1117)
+![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=7ee2a8&labelColor=0d1117)
+![SFML](https://img.shields.io/badge/SFML-0d1117?style=for-the-badge&logo=sfml&logoColor=7ee2a8&labelColor=0d1117)
+
+**Tools & Practices**
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=7ee2a8&labelColor=0d1117)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=7ee2a8&labelColor=0d1117)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=7ee2a8&labelColor=0d1117)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=7ee2a8&labelColor=0d1117)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=7ee2a8&labelColor=0d1117)
+![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-0d1117?style=for-the-badge&labelColor=0d1117&color=1b2f22)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0d1117?style=for-the-badge&labelColor=0d1117&color=1b2f22)
+
+---
+
 ## 📫 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-naeem512/)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ZainabHina05)
-[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Zaebhana/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainab.hina05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=7ee2a8&labelColor=0d1117)](https://www.linkedin.com/in/zainab-naeem512/)
+[![Twitter/X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=7ee2a8&labelColor=0d1117)](https://x.com/ZainabHina05)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=7ee2a8&labelColor=0d1117)](https://leetcode.com/u/Zaebhana/)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=7ee2a8&labelColor=0d1117)](mailto:zainab.hina05@gmail.com)
 
 </div>
 
@@ -189,10 +182,10 @@ I believe in **building in public** — sharing every step of the journey: the p
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=zainabhina05-png&label=Profile+Views&color=9caf88&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=zainabhina05-png&label=Profile+Views&color=3FB950&style=flat" alt="profile views"/>
 
-*🌾 Check back often — I'm always learning and shipping something new!*
+*Check back often — I'm always learning and shipping something new.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B8E5A,50:9CAF88,100:C8DAB5&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b2f22,50:1b2f22,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
