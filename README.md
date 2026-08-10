@@ -80,19 +80,19 @@
 
 ## ┌── top languages ──┐
 
-<div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zainabhina05-png&layout=compact&hide_border=true&bg_color=0F130D&title_color=B9CFA0&text_color=DBE6CB&border_color=46523C" alt="Top Languages" />
+<div align="center"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zainabhina05-png&layout=compact&hide_border=true&bg_color=0F130D&title_color=B9CFA0&text_color=DBE6CB&border_color=46523C" alt="Top Languages" /> </div>
 
-</div>
+
 
 <br/>
 
 ## ┌── stats & activity ──┐
 
-<div align="center">
+<div align="center"> <img src="https://github-stats-extended.vercel.app/api?username=zainabhina05-png&show_icons=true&hide_border=true&bg_color=0F130D&title_color=B9CFA0&icon_color=8BA46F&text_color=DBE6CB&border_color=46523C&count_private=true" alt="Zaeb's GitHub Stats" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zainabhina05-png&bg_color=0F130D&color=8BA46F&line=9FBF7C&point=DBE6CB&area=true&hide_border=true" alt="Activity Graph" /> </div>   
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zainabhina05-png&show_icons=true&hide_border=true&bg_color=0F130D&title_color=B9CFA0&icon_color=8BA46F&text_color=DBE6CB&border_color=46523C&count_private=true" alt="Zaeb's GitHub Stats" />
+
 
 <br/>
 
