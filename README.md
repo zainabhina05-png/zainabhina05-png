@@ -86,15 +86,12 @@
 
 
 <br/>
-
 ## ┌── stats & activity ──┐
 
-<div align="center"> <img src="https://github-stats-extended.vercel.app/api?username=zainabhina05-png&show_icons=true&hide_border=true&bg_color=0F130D&title_color=B9CFA0&icon_color=8BA46F&text_color=DBE6CB&border_color=46523C&count_private=true&include_all_commits=true" alt="Zaeb's GitHub Stats" />
-
+<div align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=zainabhina05-png&show_icons=true&hide_border=true&bg_color=0F130D&title_color=B9CFA0&icon_color=8BA46F&text_color=DBE6CB&border_color=46523C&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Zaeb's GitHub Stats" />
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zainabhina05-png&bg_color=0F130D&color=8BA46F&line=9FBF7C&point=DBE6CB&area=true&hide_border=true" alt="Activity Graph" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zainabhina05-png&bg_color=0F130D&color=8BA46F&line=9FBF7C&point=DBE6CB&area=true&hide_border=true&cb=1" alt="Activity Graph" />
 </div>
 
 <br/>
